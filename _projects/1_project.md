@@ -2,7 +2,7 @@
 layout: page
 title: Reimaging Tree Structure
 description: Robotic Printing Clay Formwork for Concrete Casting
-img: assets/img/desigb/printing.JPG
+img: assets/img/design/printing.JPG
 importance: 1
 category: Design
 related_publications: false

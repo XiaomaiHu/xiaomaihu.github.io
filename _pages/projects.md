@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Half rational, halt intuitive.
+description: Half rational, half intuitive.
 nav: true
 nav_order: 3
 display_categories: [Research,Design]
