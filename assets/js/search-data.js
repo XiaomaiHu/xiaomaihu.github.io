@@ -446,14 +446,14 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-automated-disaster-types-and-damage-levels-classifier",
+          title: 'Automated Disaster Types and Damage Levels Classifier',
+          description: "Multi-feature ML pipeline for detecting disaster type and damage level",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-can-conditional-cash-transfers-boost-school-enrollment",
+          title: 'Can Conditional Cash Transfers Boost School Enrollment?',
+          description: "A DID Evaluation of Mexico’s PROGRESA Program.",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio/projects/8_project/";
             },},{id: "projects-project-9",
