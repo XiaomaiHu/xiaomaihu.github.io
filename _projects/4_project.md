@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Did Short-term Airbnb Make the City Louder?
+description: Assessing the Impact of Local Law 18 on Neighborhood Noise in NYC
 img:
 importance: 3
 category: work
