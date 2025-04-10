@@ -2,7 +2,7 @@
 layout: page
 title: Poem of Relationship
 description: Continuing the vitality of a vacant sewage treatment plant
-img: assets/img/Sewage.jpg
+img: assets/img/design/Sewage.jpg
 importance: 2
 category: Design
 giscus_comments: true
