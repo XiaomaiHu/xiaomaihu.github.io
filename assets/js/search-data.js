@@ -431,9 +431,9 @@ ninja.data = [{
           description: "Identifying Service Gaps through Spatial Analysis and Predictive Modeling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-did-short-term-airbnb-make-the-city-louder",
+          title: 'Did Short-term Airbnb Make the City Louder?',
+          description: "Assessing the Impact of Local Law 18 on Neighborhood Noise in NYC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
