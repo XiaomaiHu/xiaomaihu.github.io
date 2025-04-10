@@ -1,81 +1,53 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Reimaging Tree Structure
+description: Robotic Printing Clay Formwork for Concrete Casting
+img: assets/img/3Dprinting.jpg
 importance: 1
-category: work
-related_publications: true
+category: Design 
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The project explores the design and construction of a tree truss structure, inspired by the organic and fluid geometry found in natural tree forms. These profiles exhibit elegance, hollowness, and structural fluidity, which became key design values. However, translating this vision into reality presents significant technical challenges, including geometric instability, material waste, and scale limitations when relying on traditional 3D-printing techniques.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To address these challenges, we adopted an innovative approach that combines 3D-printed clay formwork with concrete casting. While direct 3D printing of the structure poses difficulties in achieving the desired Y-shaped geometry, clay formwork offers a practical solution. Clay can be precisely printed to create intricate forms, and its reusability after being dissolved in water ensures a sustainable production cycle. Once the segmented clay formwork is printed, concrete casting is used to fill and unify the structure, restoring its geometric continuity and enhancing structural integrity.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The fluid properties of concrete allow it to adapt seamlessly to complex geometries, fulfilling the design's aesthetic and functional requirements. Furthermore, the reusability of clay formwork reduces material waste, aligning with principles of environmental sustainability. This method bridges the gap between design intent and material realization, overcoming the limitations of direct 3D printing.
+
+To validate our approach, we conducted a series of experimental phases. These included form-finding exercises to explore geometric possibilities, cylinder testing to optimize material properties, filament prototyping to evaluate structural behavior, and clay printing for real-scale construction insights. Six parallel experiments were carried out to identify the ideal sand-to-aggregate mix ratio for casting within clay formwork. Additionally, small-scale resin prototypes were produced to test final column geometries, and a 1:1 clay-printed section of the column was successfully realized to demonstrate the feasibility of the construction process.
+
+This integrated approach merges architectural design innovation with sustainable material practices and advanced fabrication techniques. By leveraging the adaptability of clay formwork and the structural performance of cast concrete, the project pushes the boundaries of architectural geometry and demonstrates a scalable method for constructing complex organic forms.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/design/3dprinting/_MG_0936.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Six parallel experiments were carried out to identify the ideal layer and sand-to-aggregate mix ratio for casting. After testing, clay is soaked in water for demolding, while simultaneously being reclaimed for reuse. 
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/design/3dprinting/_MG_0936.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Six parallel experiments were carried out to identify the ideal layer and sand-to-aggregate mix ratio for casting. After testing, clay is soaked in water for demolding, while simultaneously being reclaimed for reuse. 
+</div>
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/design/3dprinting/IMG_7609 (1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/design/3dprinting/IMG_7601 (1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Additionally, small-scale resin prototypes were produced to test final column geometries, we also inserted rebars when casting to simulate actuall structural forces.
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
