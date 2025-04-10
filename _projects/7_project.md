@@ -1,18 +1,16 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
+title: Automated Disaster Types and Damage Levels Classifier
+description: Multi-feature ML pipeline for detecting disaster type and damage level
+img: assets/img/research/classifier.png
+importance: 4
+category: Research
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project applies machine learning techniques to automate disaster type classification and damage level assessment based on satellite imagery. Using logistic regression and XGBoost, the models were trained to distinguish between flooding and wildfire events, and to classify structural damage caused by Hurricane Matthew. Through feature extraction techniques such as LBP, Gabor filters, and RGB histograms, the models achieved high performance while remaining lightweight and interpretable. This study demonstrates how computer vision–aided machine learning can support efficient, scalable, and timely disaster response planning.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -78,4 +76,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->

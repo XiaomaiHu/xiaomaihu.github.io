@@ -1,18 +1,16 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Can Conditional Cash Transfers Boost School Enrollment? 
+description: A DID Evaluation of Mexico’s PROGRESA Program.
 img: assets/img/9.jpg
-importance: 2
+importance: 5
 category: Research
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project evaluates the impact of Mexico’s flagship conditional cash transfer program, PROGRESA, on school enrollment rates among children in rural communities. Leveraging a natural experiment where some eligible villages received the program before others, we apply a difference-in-differences (DID) approach to estimate causal effects. Using household-level panel data from 1997 to 1998, our analysis reveals how financial incentives tied to school attendance influenced educational outcomes. The findings contribute to the broader understanding of how targeted welfare programs can break the cycle of poverty by encouraging human capital investment through schooling.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -78,4 +76,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
