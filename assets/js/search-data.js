@@ -451,24 +451,24 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-reimaging-tree-structure",
+          title: 'Reimaging Tree Structure',
+          description: "Robotic Printing Clay Formwork for Concrete Casting",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-poem-of-relationship",
+          title: 'Poem of Relationship',
+          description: "Continuing the vitality of a vacant sewage treatment plant",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-where-public-restrooms-are-missing",
+          title: 'Where Public Restrooms Are Missing?',
+          description: "Identifying Service Gaps through Spatial Analysis and Predictive Modeling",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-did-short-term-airbnb-make-the-city-louder",
+          title: 'Did Short-term Airbnb Make the City Louder?',
+          description: "Assessing the Impact of Local Law 18 on Neighborhood Noise in NYC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
