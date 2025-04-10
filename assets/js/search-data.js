@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-about",
+          title: "about",
+          description: "Interdisciplinary Background in GIS, Data Science, and Design",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/portfolio/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
