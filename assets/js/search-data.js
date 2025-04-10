@@ -9,21 +9,35 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "Half rational, half intuitive.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-about",
           title: "about",
-          description: "Interdisciplinary Background in GIS, Data Science, and Design",
+          description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/books/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
