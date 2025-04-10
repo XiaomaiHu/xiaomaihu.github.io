@@ -4,7 +4,7 @@ title: Poem of Relationship
 description: Continuing the vitality of a vacant sewage treatment plant
 img: assets/img/Sewage.jpg
 importance: 2
-category: Design 
+category: Design
 giscus_comments: true
 ---
 
@@ -18,7 +18,6 @@ The design redefines the site's boundaries by wrapping it in a light and transpa
     Project Instructor: Yu Zhou
     Project Honor: Excellence Award, Tianzuo International College Students Architectural Design Competition
     ---
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

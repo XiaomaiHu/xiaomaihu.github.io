@@ -4,7 +4,7 @@ title: Reimaging Tree Structure
 description: Robotic Printing Clay Formwork for Concrete Casting
 img: assets/img/3Dprinting.jpg
 importance: 1
-category: Design 
+category: Design
 related_publications: false
 ---
 
@@ -17,7 +17,6 @@ The fluid properties of concrete allow it to adapt seamlessly to complex geometr
 To validate our approach, we conducted a series of experimental phases. These included form-finding exercises to explore geometric possibilities, cylinder testing to optimize material properties, filament prototyping to evaluate structural behavior, and clay printing for real-scale construction insights. Six parallel experiments were carried out to identify the ideal sand-to-aggregate mix ratio for casting within clay formwork. Additionally, small-scale resin prototypes were produced to test final column geometries, and a 1:1 clay-printed section of the column was successfully realized to demonstrate the feasibility of the construction process.
 
 This integrated approach merges architectural design innovation with sustainable material practices and advanced fabrication techniques. By leveraging the adaptability of clay formwork and the structural performance of cast concrete, the project pushes the boundaries of architectural geometry and demonstrates a scalable method for constructing complex organic forms.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
