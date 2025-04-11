@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Poverty Status and Affordable Housing Distribution in Chicago Illinois
-description: 
+description:
 img: assets/img/cartography/chicagocrime.jpg
 importance: 4
 category: Cartography
 ---
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
