@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /portfolio/
+permalink: /about/
 title: about
 description: Interdisciplinary Background in GIS, Data Science, and Design
 nav: true
