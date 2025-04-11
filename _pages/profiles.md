@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /about/
-title: about
+permalink: /people/
+title: people
 description: Interdisciplinary Background in GIS, Data Science, and Design
 nav: true
 nav_order: 7
