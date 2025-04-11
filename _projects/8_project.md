@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Can Conditional Cash Transfers Boost School Enrollment? 
+title: Can Conditional Cash Transfers Boost School Enrollment?
 description: A DID Evaluation of Mexico’s PROGRESA Program.
 img: assets/img/research/Progresa.png
 importance: 5

@@ -5,7 +5,7 @@ permalink: /projects/
 description: Half rational, half intuitive.
 nav: true
 nav_order: 3
-display_categories: [Research,Design]
+display_categories: [Research, Cartography, Design]
 horizontal: false
 ---
 
