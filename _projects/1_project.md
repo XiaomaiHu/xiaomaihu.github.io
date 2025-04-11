@@ -18,35 +18,10 @@ To validate our approach, we conducted a series of experimental phases. These in
 
 This integrated approach merges architectural design innovation with sustainable material practices and advanced fabrication techniques. By leveraging the adaptability of clay formwork and the structural performance of cast concrete, the project pushes the boundaries of architectural geometry and demonstrates a scalable method for constructing complex organic forms.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/design/3dprinting/_MG_0936.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-4">
+  <div class="col">
+    <div style="height:600px; overflow:auto; border:1px solid #ccc;">
+      <iframe src="assets/pdf/my_report.pdf" width="100%" height="100%" style="border:none;"></iframe>
     </div>
-</div>
-<div class="caption">
-    Six parallel experiments were carried out to identify the ideal layer and sand-to-aggregate mix ratio for casting. After testing, clay is soaked in water for demolding, while simultaneously being reclaimed for reuse. 
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/design/3dprinting/_MG_0936.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Six parallel experiments were carried out to identify the ideal layer and sand-to-aggregate mix ratio for casting. After testing, clay is soaked in water for demolding, while simultaneously being reclaimed for reuse. 
-</div>
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/design/3dprinting/IMG_7609 (1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/design/3dprinting/IMG_7601 (1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Additionally, small-scale resin prototypes were produced to test final column geometries, we also inserted rebars when casting to simulate actuall structural forces.
+  </div>
 </div>
