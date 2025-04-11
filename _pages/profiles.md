@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: people
 description: Interdisciplinary Background in GIS, Data Science, and Design
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
