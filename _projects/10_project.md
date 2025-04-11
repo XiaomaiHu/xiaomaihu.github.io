@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Restroom in San Francisco
-description: 
+description:
 img: assets/img/cartography/distributionmap.jpg
 importance: 4
 category: Cartography
