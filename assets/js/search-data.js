@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-about",
-          title: "about",
+  },{id: "nav-people",
+          title: "people",
           description: "Interdisciplinary Background in GIS, Data Science, and Design",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/about/";
+            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
