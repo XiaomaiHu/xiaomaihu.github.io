@@ -409,71 +409,76 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-public-restroom-in-san-francisco",
-          title: 'Public Restroom in San Francisco',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
-            },},{id: "projects-unevenly-distribution-of-ev-chargers-in-san-francisco",
-          title: 'Unevenly Distribution of EV Chargers in San Francisco',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/11_project/";
-            },},{id: "projects-bike-repair-suitability-map",
-          title: 'Bike Repair Suitability Map',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/12_project/";
-            },},{id: "projects-affordable-rental-housing-suitability-map",
-          title: 'Affordable Rental Housing Suitability Map',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/13_project/";
-            },},{id: "projects-poem-of-relationship",
-          title: 'Poem of Relationship',
-          description: "Continuing the vitality of a vacant sewage treatment plant",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-where-public-restrooms-are-missing",
-          title: 'Where Public Restrooms Are Missing?',
-          description: "Identifying Service Gaps through Spatial Analysis and Predictive Modeling",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-did-short-term-airbnb-make-the-city-louder",
-          title: 'Did Short-term Airbnb Make the City Louder?',
-          description: "Assessing the Impact of Local Law 18 on Neighborhood Noise in NYC",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-automated-disaster-types-and-damage-levels-classifier",
-          title: 'Automated Disaster Types and Damage Levels Classifier',
-          description: "Multi-feature ML pipeline for detecting disaster type and damage level",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-can-conditional-cash-transfers-boost-school-enrollment",
-          title: 'Can Conditional Cash Transfers Boost School Enrollment?',
-          description: "A DID Evaluation of Mexico’s PROGRESA Program.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-poverty-status-and-affordable-housing-distribution-in-chicago-illinois",
-          title: 'Poverty Status and Affordable Housing Distribution in Chicago Illinois',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-reimaging-tree-structure",
+          section: "News",},{id: "projects-reimaging-tree-structure",
           title: 'Reimaging Tree Structure',
           description: "Robotic Printing Clay Formwork for Concrete Casting",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Arch258/";
+            },},{id: "projects-poem-of-relationship",
+          title: 'Poem of Relationship',
+          description: "Continuing the vitality of a vacant sewage treatment plant",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Arch_project1/";
+            },},{id: "projects-skyport",
+          title: 'Skyport',
+          description: "A Innovative Transportation Hub Reimagining Multi-Modal Urban Mobility",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Arch_project2/";
+            },},{id: "projects-waterfront-nexus",
+          title: 'Waterfront Nexus',
+          description: "A Developing Waterfront Community in the Periphery of Beijing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Arch_project3/";
+            },},{id: "projects-walls-as-threshold",
+          title: 'Walls As Threshold',
+          description: "Rethinking Micro-interventions in Traditional Housing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Arch_project4/";
+            },},{id: "projects-did-short-term-airbnb-make-the-city-louder",
+          title: 'Did Short-term Airbnb Make the City Louder?',
+          description: "Assessing the Impact of Local Law 18 on Neighborhood Noise in NYC",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CP255_final/";
+            },},{id: "projects-automated-disaster-types-and-damage-levels-classifier",
+          title: 'Automated Disaster Types and Damage Levels Classifier',
+          description: "Multi-feature ML pipeline for detecting disaster type and damage level",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DS200_final/";
+            },},{id: "projects-unevenly-distribution-of-ev-chargers-in-san-francisco",
+          title: 'Unevenly Distribution of EV Chargers in San Francisco',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GIS_ev/";
+            },},{id: "projects-where-public-restrooms-are-missing",
+          title: 'Where Public Restrooms Are Missing?',
+          description: "Identifying Service Gaps through Spatial Analysis and Predictive Modeling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GIS_final/";
+            },},{id: "projects-poverty-status-and-affordable-housing-distribution-in-chicago-illinois",
+          title: 'Poverty Status and Affordable Housing Distribution in Chicago Illinois',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GIS_lab5/";
+            },},{id: "projects-bike-repair-suitability-map",
+          title: 'Bike Repair Suitability Map',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GIS_lab7/";
+            },},{id: "projects-affordable-rental-housing-suitability-map",
+          title: 'Affordable Rental Housing Suitability Map',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GIS_lab8/";
+            },},{id: "projects-public-restroom-in-san-francisco",
+          title: 'Public Restroom in San Francisco',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GIS_restroom/";
+            },},{id: "projects-can-conditional-cash-transfers-boost-school-enrollment",
+          title: 'Can Conditional Cash Transfers Boost School Enrollment?',
+          description: "A DID Evaluation of Mexico’s PROGRESA Program.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Info_lab4/";
             },},{
         id: 'social-email',
         title: 'email',
