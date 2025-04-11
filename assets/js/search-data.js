@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-people",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "Half rational, half intuitive.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-people",
           title: "people",
           description: "Interdisciplinary Background in GIS, Data Science, and Design",
           section: "Navigation",
