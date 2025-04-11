@@ -402,7 +402,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-reimaging-tree-structure",
+          section: "News",},{id: "projects-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-reimaging-tree-structure",
           title: 'Reimaging Tree Structure',
           description: "Robotic Printing Clay Formwork for Concrete Casting",
           section: "Projects",handler: () => {
@@ -442,9 +447,9 @@ ninja.data = [{
           description: "A DID Evaluation of Mexico’s PROGRESA Program.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-poverty-status-and-affordable-housing-distribution-in-chicago-illinois",
+          title: 'Poverty Status and Affordable Housing Distribution in Chicago Illinois',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
