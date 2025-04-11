@@ -424,6 +424,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
+            },},{id: "projects-affordable-rental-housing-suitability-map",
+          title: 'Affordable Rental Housing Suitability Map',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
             },},{id: "projects-reimaging-tree-structure",
           title: 'Reimaging Tree Structure',
           description: "Robotic Printing Clay Formwork for Concrete Casting",
