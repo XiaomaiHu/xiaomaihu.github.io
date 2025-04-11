@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Interdisciplinary Background in GIS, Data Science, and Design",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio/";
+            window.location.href = "/about/";
           },
         },{id: "post-a-post-with-plotly-js",
         
