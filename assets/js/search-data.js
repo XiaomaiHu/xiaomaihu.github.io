@@ -9,19 +9,26 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio/";
     },
-  },{id: "dropdown-projects",
-              title: "Projects",
+  },{id: "dropdown-cartography",
+              title: "Cartography",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/portfolio/projects/";
+                window.location.href = "/portfolio/projects_cartography/";
               },
-            },{id: "dropdown-people",
-              title: "people",
+            },{id: "dropdown-research",
+              title: "Research",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/portfolio/people/";
+                window.location.href = "/portfolio/projects_research/";
+              },
+            },{id: "dropdown-design",
+              title: "Design",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/portfolio/projects_design/";
               },
             },{id: "post-a-post-with-plotly-js",
         
