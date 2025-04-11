@@ -1,9 +1,9 @@
 ---
 layout: page
 title: submenus
-nav: false
+nav: true
 nav_order: 8
-dropdown: false
+dropdown: true
 children:
   - title: Projects
     permalink: /projects/
