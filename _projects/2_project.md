@@ -24,9 +24,6 @@ The design redefines the site's boundaries by wrapping it in a light and transpa
         {% include figure.liquid loading="eager" path="assets/img/design/sewage/Portfolio_Mia_Page9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<!-- <div class="caption">
-    This image can also have a caption. It's like magic.
-</div> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/design/sewage/Portfolio_Mia_Page10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
