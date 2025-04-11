@@ -3,7 +3,7 @@ layout: page
 title: Unevenly Distribution of EV Chargers in San Francisco
 description:
 img: assets/img/cartography/Ev_Page3.jpg
-importance: 4
+importance: 1
 category: Cartography
 ---
 
