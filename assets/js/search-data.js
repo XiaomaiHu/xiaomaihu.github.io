@@ -429,11 +429,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
-            },},{id: "projects-reimaging-tree-structure",
-          title: 'Reimaging Tree Structure',
-          description: "Robotic Printing Clay Formwork for Concrete Casting",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-poem-of-relationship",
           title: 'Poem of Relationship',
           description: "Continuing the vitality of a vacant sewage treatment plant",
@@ -474,6 +469,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-reimaging-tree-structure",
+          title: 'Reimaging Tree Structure',
+          description: "Robotic Printing Clay Formwork for Concrete Casting",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Arch258/";
             },},{
         id: 'social-email',
         title: 'email',
