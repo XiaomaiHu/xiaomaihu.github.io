@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>Emeryville, CA, US</p>
     <p>Nanchang, JX, CN</p>
-    [Linkedin](https://www.linkedin.com/in/miaxiaomaihu/)
-    [Resume](assets/pdf/Resume_Xiaomai(Mia)Hu.pdf)
+    <p><a href="https://www.linkedin.com/in/miaxiaomaihu/">LinkedIn</a></p>
+    <p><a href="assets/pdf/Resume_Xiaomai(Mia)Hu.pdf">Resume</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,5 +29,7 @@ latest_posts:
 ---
 
 I am currently Master of Architecture candidate at UC Berkeley [CED](https://ced.berkeley.edu/) with Graduate Certificatein Applied Data Science and Geospatial Information Science and Technology
+
 My passion lies in the intersection of data science, transportation planning, healthcities, and sustainable infrastructure systems. Through modeling, visualization, andstorytelling, my work aims to generate insights that support more inclusive and resilienturban futures.
+
 Before entering UC Berkeley, l had one year of experience studying chemistry andreceived a Bachelor of Architecture from Huazhong University of Science andTechnology.
