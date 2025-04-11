@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xiaomaihutest.github.io/sitemap.xml
+Sitemap: https://xiaomaihu.github.io/sitemap.xml

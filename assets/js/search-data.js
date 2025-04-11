@@ -402,9 +402,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+          section: "News",},{id: "projects-public-restroom-in-san-francisco",
+          title: 'Public Restroom in San Francisco',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-reimaging-tree-structure",
