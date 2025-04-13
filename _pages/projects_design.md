@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects_design/
 description: Half rational, half intuitive.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [Design]
 horizontal: false

@@ -3,6 +3,7 @@ layout: page
 title: Public Restroom in San Francisco
 description:
 img: assets/img/cartography/DistributionMap.jpg
+redirect: https://storymaps.arcgis.com/stories/416c5f5969eb49fea7e8400ea8b01f6c
 importance: 4
 category: Cartography
 ---

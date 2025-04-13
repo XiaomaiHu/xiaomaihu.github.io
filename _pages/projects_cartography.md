@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects_cartography/
 description: Half rational, half intuitive.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [Cartography]
 horizontal: false

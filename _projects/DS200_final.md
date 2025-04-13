@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Automated Disaster Types and Damage Levels Classifier
 description: Multi-feature ML pipeline for detecting disaster type and damage level
 img: assets/img/research/classifier.png
