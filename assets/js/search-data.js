@@ -9,7 +9,28 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-cartography",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "Half rational, half intuitive.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects_cartography/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Half rational, half intuitive.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects_design/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Half rational, half intuitive.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects_research/";
+          },
+        },{id: "dropdown-cartography",
               title: "Cartography",
               description: "",
               section: "Dropdown",
