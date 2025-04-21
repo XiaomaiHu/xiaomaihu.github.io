@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: 胡小迈 (pronounced: hoo shyaow-my)
+subtitle: pronounced hoo shyaow-my
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Emeryville, CA, US</p>
-    <p>Nanchang, JX, CN</p><br>
-    <p><a href="https://www.linkedin.com/in/miaxiaomaihu/">LinkedIn</a></p><br>
+    <p>Nanchang, JX, CN</p>
+    <p><a href="https://www.linkedin.com/in/miaxiaomaihu/">LinkedIn</a></p>
     <p><a href="assets/pdf/Resume_Xiaomai(Mia)Hu.pdf">Resume</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
