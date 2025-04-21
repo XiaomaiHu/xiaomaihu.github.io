@@ -21,7 +21,7 @@ This integrated approach merges architectural design innovation with sustainable
 <div class="row mt-4">
   <div class="col">
     <div style="height:600px; overflow:auto; border:1px solid #ccc;">
-      <iframe src="assets/pdf/arch258_finalpre.pdf" width="100%" height="100%" style="border:none;"></iframe>
+      <iframe src="{{ site.baseurl }}/assets/pdf/arch258_finalpre.pdf" width="100%" height="100%" style="border:none;"></iframe>
     </div>
   </div>
 </div>
